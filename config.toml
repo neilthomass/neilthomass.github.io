@@ -1,0 +1,46 @@
+# The following line is needed
+# when running the example site
+# from a subdir of the theme
+themesDir = "themes"
+
+title = "Neil Thomas"
+theme = "not-much"
+languageCode = "en-us"
+baseURL = "https://example.org/"
+copyright = "Sample custom notice © {year}"
+
+[markup]
+  [markup.highlight]
+    style = 'dracula'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[params]
+theme = "dark"
+palette = "catpuccin"
+showThemeNotice = false
+
+# Navigation
+[menu]
+  [[menu.main]]
+    identifier = "Home"
+    name = "Home"
+    title = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    identifier = "Bookshelf"
+    name = "Bookshelf"
+    title = "BookShelf"
+    url = "/bookshelf"
+    weight = 2
+  
+  [[menu.main]]
+    identifier = "author"
+    name = "Author"
+    title = "Author"
+    url = "/author"
+    weight = 3

@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <div class="container pt-5">
+    <div class="row mt-5 pt-5">
+      {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+    </div>
+    
+    <div class="author-content">
+      <h1>About Me</h1>
+      
+      <!-- Add the image -->
+      <div class="author-image mb-4">
+        <img src="{{ "images/DSCN0038.jpg" | relURL }}" alt="Neil Thomas" class="img-fluid rounded" style="max-width: 300px;">
+      </div>
+      
+      <!-- Output the content without the first heading -->
+      {{ replace .Content "<h1 id=\"about-me\">About Me</h1>" "" | safeHTML }}
+    </div>
+  </div>
+{{ end }} 
