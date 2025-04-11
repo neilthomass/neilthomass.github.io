@@ -9,22 +9,25 @@ My digital bookshelf, in no particular order.
 
 -------------------------------------------------
 
-- "Thinking, Fast and Slow" by Daniel Kahneman
 
-- "The Pragmatic Programmer" by Andrew Hunt and David Thomas
+- "Introduction to Linear Algebra" by Gilbert Strang
 
-- "Sapiens: A Brief History of Humankind" by Yuval Noah Harari
+- "Animal Farm" by George Orwell
 
-- "Gödel, Escher, Bach: An Eternal Golden Braid" by Douglas Hofstadter
+- "War and Peace" by Leo Tolstoy
 
-- "Designing Data-Intensive Applications" by Martin Kleppmann
+- "The Annotated Pride and Prejudice" by Jane Austen
 
-- "Atomic Habits" by James Clear
+- "The C Programming Language" by Brian Kernighan and Dennis Ritchie
 
-- "The Design of Everyday Things" by Don Norman
+- "The Great Gatsby" by F. Scott Fitzgerald
 
-- "Algorithms to Live By" by Brian Christian and Tom Griffiths
+- "1984" by George Orwell
 
-- "Deep Work" by Cal Newport
+- "To Kill a Mockingbird" by Harper Lee
 
-- "The Innovators" by Walter Isaacson 
+- "Brave New World" by Aldous Huxley
+
+- "The Lord of the Rings" by J.R.R. Tolkien
+
+- "Dune" by Frank Herbert 
