@@ -28,4 +28,22 @@
 /* LinkedIn Icon */
 .icon-linkedin::before {
     content: "LinkedIn";
+}
+
+:root {
+    --bg-color: #1E201E;
+    --bg-variant: #060606;
+    --primary: #FF5D73;
+    --primary-variant: #ff475f;
+    --secondary: #f7f5dd;
+}
+
+body {
+    background-color: var(--bg-color) !important;
+    color: var(--secondary) !important;
+}
+
+body.dark {
+    background-color: var(--bg-color) !important;
+    color: var(--secondary) !important;
 } 

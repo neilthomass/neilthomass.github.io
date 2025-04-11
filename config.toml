@@ -42,5 +42,15 @@ showThemeNotice = false
     identifier = "author"
     name = "Author"
     title = "Author"
-    url = "/author"
+    url = "/author/"
     weight = 3
+
+  [[menu.main]]
+    identifier = "aristatest"
+    name = "AristaTest"
+    title = "AristaTest"
+    url = "/aristatest"
+    weight = 4
+
+
+
