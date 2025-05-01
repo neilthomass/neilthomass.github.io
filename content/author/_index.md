@@ -29,8 +29,9 @@ My professional journey spans research, software engineering, and entrepreneursh
 ## Technical Skills
 
 I work with various technologies including:
-- Programming: Python, Java, SQL, PyTorch, TensorFlow, OpenCV, HTML, JavaScript, TypeScript, Flutter
-- Tools & Platforms: Git, NodeJS, AWS
+- Languages: Python, Java, C++, C, SQL, JavaScript, TypeScript, R, Bash
+- Frameworks: Next.js, TensorFlow, Keras, OpenCV, Lang Chain, Lang Graph, Rest API, Pytorch, CUDA, Scikit-Learn, NumPy
+- Tools: Git, AWS, Docker, Linux, HTML/CSS, MySQL
 
 
 
