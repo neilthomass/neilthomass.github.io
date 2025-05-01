@@ -39,7 +39,6 @@ showThemeNotice = false
     weight = 2
   
 
-
   [[menu.main]]
     identifier = "author"
     name = "Author"
