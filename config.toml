@@ -22,6 +22,21 @@ theme = "dark"
 palette = "default"
 showThemeNotice = false
 
+# SEO Configuration
+[params.seo]
+  title = "Neil Thomas - EECS Student at UC Berkeley"
+  description = "Personal website of Neil Thomas, Electrical Engineering and Computer Science student at UC Berkeley"
+  keywords = ["Neil Thomas", "UC Berkeley", "EECS", "Electrical Engineering", "Computer Science"]
+  author = "Neil Thomas"
+  twitter = "@yourtwitterhandle"  # Add your Twitter handle if you have one
+  og_image = "/images/og-image.jpg"  # Add an Open Graph image for social sharing
+
+# Enable robots.txt
+enableRobotsTXT = true
+
+# Enable sitemap
+enableSitemap = true
+
 # Navigation
 [menu]
   [[menu.main]]

@@ -46,4 +46,21 @@ body {
 body.dark {
     background-color: var(--bg-color) !important;
     color: var(--secondary) !important;
+}
+
+/* Custom styles for adjusting page margins */
+@media (min-width: 1200px) {
+  .container {
+    max-width: 900px !important; /* Increased from 720px to 900px */
+    padding-left: 2rem !important;  /* Add left padding */
+    padding-right: 2rem !important; /* Add right padding */
+  }
+}
+
+/* Adjust margins for smaller screens */
+@media (max-width: 1199px) {
+  .container {
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
+  }
 } 

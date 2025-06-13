@@ -7,13 +7,11 @@ image = "images/DSCN0038Small.jpg"
 
 # About Me
 
-![alt](Asset0008.jpeg)
-
-I'm Neil Thomas, an Electrical Engineering and Computer Science student at UC Berkeley with a passion for developing innovative solutions through technology.
+![alt](Asset0008Medium.jpeg)
 
 ## Education
 
-I'm currently pursuing my B.S. in Electrical Engineering and Computer Science with a minor in Pure Mathematics at the University of California, Berkeley. Currently exploring artificial intelligence, machine learning, software engineering, NLP, algorithms, and high frequency trading. :)
+- B.S. in Electrical Engineering and Computer Science with a minor in Pure Mathematics at UC Berkeley.
 
 
 ## Professional Experience
