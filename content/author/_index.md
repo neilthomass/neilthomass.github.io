@@ -13,7 +13,7 @@ I'm Neil Thomas, an Electrical Engineering and Computer Science student at UC Be
 
 ## Education
 
-I'm currently pursuing my B.S. in Electrical Engineering and Computer Science with a minor in Mathematics at the University of California, Berkeley. My academic journey has equipped me with strong foundations in data structures, algorithms, and mathematical principles that drive modern computing.
+I'm currently pursuing my B.S. in Electrical Engineering and Computer Science with a minor in Pure Mathematics at the University of California, Berkeley. Currently exploring artificial intelligence, machine learning, software engineering, NLP, algorithms, and high frequency trading. :)
 
 
 ## Professional Experience
@@ -22,17 +22,16 @@ My professional journey spans research, software engineering, and entrepreneursh
 
 - As a Research Assistant at Berkeley AI Research's Mobile Sensing Lab, I'm exploring efficient traffic flow using autonomous vehicles and reinforcement learning.
 - With Arista Networks, I've developed AI documentation tools using LLMs and vector indexing.
-- At Stealth Startup, I'm engineering real-time applications with Flutter and Dart.
-- I founded RYDE, a carpooling initiative that reduced school-area traffic congestion and secured city funding.
-
+- At Stealth Startup, I've engineering real-time applications with Flutter and Dart.
+- At Cascade I've programmed end-to-end financial and compliance infrastructure for real estate funds.
 
 ## Technical Skills
 
 I work with various technologies including:
 
-- Languages: Python (NumPy, Scikit-Learn, PyTorch, Matplotlib, Pandas), C++, C, Java, R, SQL, JS/TS
-- Frameworks/Tools: OpenCV, TensorFlow, Wireshark, Docker, Git, AWS, Bash, REST, CUDA, LangChain
-- Math: Linear Algebra, Probability, Bayesian Inference, Statistical Learning, Matrix Calculus
+- Languages: Python, C++, R, Java, Go, Ruby, HTML/CSS, MySQL, NodeJS, ReactJS, React Native, Solidity, Rust, Firebase, MongoDB
+- Frameworks: Next.js, Keras, Pandas, Lang Chain, Rest API, Pytorch, CUDA AI/ML: PyTorch, TensorFlow, OpenCV 
+- Tools:  Linux, Git, NumPy, SciPy, Scikit-Learn, Pandas, jQuery, Arduino, Matplotlib, Flask, ArcGIS, MATLAB, JSON, PySpark
 
 
 ## Connect With Me
