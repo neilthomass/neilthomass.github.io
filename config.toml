@@ -16,6 +16,11 @@ copyright = "© {year} Neil Thomas"
     [markup.goldmark.renderer]
       unsafe = true
 
+# Redirects
+[[redirects]]
+  from = "/secret"
+  to = "/neil.html"
+  status = 200
 
 [params]
 theme = "dark"
