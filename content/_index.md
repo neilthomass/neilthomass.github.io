@@ -1,1 +1,0 @@
-I'm currently pursuing my B.S. in Electrical Engineering and Computer Science with a minor in Pure Mathematics at the UC Berkeley. Currently exploring artificial intelligence, machine learning, software engineering, NLP, algorithms, and high frequency trading. 
