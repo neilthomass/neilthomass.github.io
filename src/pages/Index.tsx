@@ -3,6 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
 import AboutMeSection from "@/components/AboutMeSection";
 import WorkSection from "@/components/WorkSection";
+import SkillsSection from "@/components/SkillsSection";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -18,6 +19,7 @@ const Index = () => {
         <AboutSection />
         <AboutMeSection />
         <WorkSection />
+        <SkillsSection />
         <Footer />
       </div>
     </div>
@@ -25,3 +27,4 @@ const Index = () => {
 };
 
 export default Index;
+
