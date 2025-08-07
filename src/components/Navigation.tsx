@@ -1,13 +1,6 @@
 import { Button } from "@/components/ui/button";
 
 const Navigation = () => {
-  const scrollToSection = (sectionId: string) => {
-    const element = document.getElementById(sectionId);
-    if (element) {
-      element.scrollIntoView({ behavior: "smooth" });
-    }
-  };
-
   return (
     <nav className="w-full bg-transparent flex items-center h-16">
       {/* Logo flush left */}
@@ -19,31 +12,31 @@ const Navigation = () => {
         <div className="max-w-6xl ml-auto flex items-center h-16 px-6 md:px-12 lg:px-24 justify-end space-x-8">
           <Button
             variant="ghost"
-            onClick={() => scrollToSection("experiences")}
+            asChild
             className="text-white hover:text-white/80 hover:bg-white/10"
           >
-            Experiences
+            <a href="#experiences">Experiences</a>
           </Button>
           <Button
             variant="ghost"
-            onClick={() => scrollToSection("about-me")}
+            asChild
             className="text-white hover:text-white/80 hover:bg-white/10"
           >
-            About Me
+            <a href="#about-me">About Me</a>
           </Button>
           <Button
             variant="ghost"
-            onClick={() => scrollToSection("skills")}
+            asChild
             className="text-white hover:text-white/80 hover:bg-white/10"
           >
-            Skills
+            <a href="#skills">Skills</a>
           </Button>
           <Button
             variant="ghost"
-            onClick={() => scrollToSection("work")}
+            asChild
             className="text-white hover:text-white/80 hover:bg-white/10"
           >
-            Projects
+            <a href="#work">Projects</a>
           </Button>
         </div>
       </div>
