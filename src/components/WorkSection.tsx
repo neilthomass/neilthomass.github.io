@@ -57,7 +57,7 @@ const WorkSection = () => {
   ];
 
   return (
-    <section id="work" className="py-12 px-6 md:px-12 lg:px-24 bg-black text-white">
+    <section id="work" className="py-20 px-6 md:px-12 lg:px-24 bg-black text-white">
       <div className="max-w-8xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 tracking-tight text-white">
