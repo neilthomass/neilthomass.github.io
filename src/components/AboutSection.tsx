@@ -1,4 +1,5 @@
 const AboutSection = () => (
+  <>
   <section id="about" className="w-full flex justify-start items-center my-12 px-6 md:px-12 lg:px-24">
     <div className="w-1/2 max-w-lg text-left py-16 ml-[50%]">
       <h2 className="text-5xl md:text-6xl font-extrabold uppercase mb-8 tracking-tight text-white">
@@ -9,6 +10,12 @@ const AboutSection = () => (
       </p>
     </div>
   </section>
+  <section className="w-full flex justify-start items-center my-12 px-6 md:px-12 lg:px-24">
+  <div className="w-1/2 max-w-lg text-left py-32 ml-[50%]">
+    {/* Blank section with twice the height as About Me section */}
+  </div>
+</section>
+</>
 );
 
 export default AboutSection;
