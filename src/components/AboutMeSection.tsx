@@ -1,8 +1,8 @@
 import React from "react";
 
 const AboutMeSection = () => (
-  <section id="about-me" className="w-full flex my-24 px-6 md:px-12 lg:px-24">
-    <div className="w-3/4 mx-auto text-left py-16">
+  <section id="about-me" className="w-full flex justify-end items-center my-12 px-6 md:px-12 lg:px-24">
+    <div className="w-1/2 max-w-lg text-left py-16">
       <h2 className="text-5xl md:text-6xl font-extrabold uppercase mb-8 tracking-tight text-white">
         ABOUT ME
       </h2>

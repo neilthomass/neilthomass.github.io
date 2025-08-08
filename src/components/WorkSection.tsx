@@ -57,18 +57,18 @@ const WorkSection = () => {
   ];
 
   return (
-    <section id="work" className="section-padding bg-black text-white">
-      <div className="max-w-7xl mx-auto">
+    <section id="work" className="py-12 px-6 md:px-12 lg:px-24 bg-black text-white">
+      <div className="max-w-8xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 tracking-tight text-white">
             Selected Work
           </h2>
-          <p className="text-xl text-white/80 max-w-2xl mx-auto">
-            A collection of projects that showcase my passion.
+          <p className="text-xl text-white max-w-2xl mx-auto">
+            Click to view
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {projects.map((project, index) => (
             <a
               key={index}
@@ -80,7 +80,7 @@ const WorkSection = () => {
               <h3 className="text-2xl font-bold mb-4 text-white tracking-tight group-hover:text-white/80 transition-colors">
                 {project.title}
               </h3>
-              <ul className="text-white/80 text-lg text-left list-disc pl-6 space-y-3">
+              <ul className="text-white text-lg text-left list-disc pl-6 space-y-3">
                 {project.bullets.map((bullet, i) => (
                   <li key={i}>{bullet}</li>
                 ))}

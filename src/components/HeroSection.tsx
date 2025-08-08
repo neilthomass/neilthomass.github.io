@@ -1,6 +1,6 @@
 const HeroSection = () => {
   return (
-    <section className="min-h-screen flex items-start justify-start relative overflow-hidden pt-20">
+    <section className="min-h-screen flex items-start justify-start relative overflow-hidden pt-12">
       
       <div className="relative z-10 text-left max-w-4xl ml-6 md:ml-12 lg:ml-24 section-padding">
         <h1 className="text-6xl md:text-8xl font-bold mb-6 tracking-tight">
