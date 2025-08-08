@@ -24,7 +24,7 @@ const ExperienceSection = () => {
       title: "Software Engineering Intern",
       term: "Spring 2025",
       team: "Natural Language to SQL Team",
-      link: "#",
+      link: "https://en.wikipedia.org/wiki/Stealth_startup",
       logo: new URL("../images/stealth.png", import.meta.url).href
     },
     {
@@ -33,7 +33,7 @@ const ExperienceSection = () => {
       title: "Software Engineering Intern",
       term: "Summer 2024",
       team: "Financial Automation Team",
-      link: "#",
+      link: "https://www.facebook.com/CascadeRealty/",
       logo: new URL("../images/Cascade_white_bg_removed_denoised.png", import.meta.url).href
     }
   ];

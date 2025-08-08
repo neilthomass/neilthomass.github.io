@@ -61,7 +61,7 @@ const WorkSection = () => {
       <div className="max-w-8xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 tracking-tight text-white">
-            Selected Work
+            Projects
           </h2>
           <p className="text-xl text-white max-w-2xl mx-auto">
             Click to view

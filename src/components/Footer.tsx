@@ -7,7 +7,7 @@ const Footer = () => {
 
   return (
     
-<footer className="bg-transparent pt-40">
+<footer className="bg-black pt-0">
   <div className="w-full px-12 py-8">
     <div className="flex items-center justify-between">
       {/* Left content */}
@@ -27,9 +27,9 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
             aria-label={name}
-            className="w-10 h-10 flex items-center justify-center rounded-lg bg-muted hover:bg-primary transition"
+            className="group w-10 h-10 flex items-center justify-center rounded-lg bg-transparent border-2 border-white hover:border-white/80 transition-all duration-300 hover:scale-105"
           >
-            <span className="text-sm font-bold group-hover:scale-110 transition-transform">
+            <span className="text-sm font-bold text-white group-hover:scale-110 transition-transform">
               {icon}
             </span>
           </a>
@@ -39,7 +39,6 @@ const Footer = () => {
   </div>
 </footer>
 
-  
   );
 };
 

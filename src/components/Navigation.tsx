@@ -23,7 +23,7 @@ const Navigation = () => {
           </Button>
           <Button
             variant="ghost"
-            onClick={() => scrollToSection('about-me')}
+            onClick={() => scrollToSection('about')}
             className="text-white hover:text-white/80 hover:bg-white/10"
           >
             About Me
