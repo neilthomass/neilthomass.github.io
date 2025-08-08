@@ -1,4 +1,4 @@
-# neilthomass.github.io
+# neiltthomas.com
 
 Personal website built with Vite, React, and Tailwind CSS.
 
@@ -8,8 +8,3 @@ Personal website built with Vite, React, and Tailwind CSS.
 npm install
 npm run dev
 ```
-
-## Deployment
-
-The site is published to GitHub Pages via the workflow in
-[.github/workflows/deploy.yml](.github/workflows/deploy.yml).
