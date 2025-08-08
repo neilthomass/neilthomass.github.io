@@ -75,9 +75,9 @@ const WorkSection = () => {
               href={project.link}
               target="_blank"
               rel="noopener noreferrer"
-              className="group p-10 bg-transparent border-2 border-white rounded-lg hover:border-white/80 transition-all duration-300 hover:scale-105 w-full text-center flex flex-col items-center justify-center cursor-pointer"
+              className="group p-10 bg-transparent border-2 border-white rounded-lg hover:border-white/80 transition-all duration-300 hover:scale-105 w-full text-center flex flex-col items-center justify-start cursor-pointer"
             >
-              <h3 className="text-2xl font-bold mb-4 text-white tracking-tight group-hover:text-white/80 transition-colors">
+              <h3 className="text-3xl md:text-4xl font-bold mb-4 text-white tracking-tight group-hover:text-white/80 transition-colors">
                 {project.title}
               </h3>
               <ul className="text-white text-lg text-left list-disc pl-6 space-y-3">
